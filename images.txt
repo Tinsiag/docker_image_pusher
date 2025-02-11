@@ -1,1 +1,2 @@
---platform linux/arm64 vinlic/deepseek-free-api:latest
+
+--platform linux/arm64 yangclivia/lobe-chat:latest
