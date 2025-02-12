@@ -1,2 +1,2 @@
-
+--platform linux/arm64 yidadaa/chatgpt-next-web
 --platform linux/arm64 yangclivia/lobe-chat:latest
