@@ -1,4 +1,4 @@
 --platform linux/arm64 yidadaa/chatgpt-next-web
 --platform linux/arm64 yangclivia/lobe-chat:latest
 justsong/one-api
---platform linux/arm64 justsong/one-api
+--platform yidadaa/chatgpt-next-web
