@@ -1,1 +1,1 @@
---platform ghcr.io/bestruirui/subs-check:v0.1.5
+--platform=linux/arm64 ghcr.io/bestruirui/subs-check:v0.1.5
