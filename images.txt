@@ -1,1 +1,1 @@
---platform linux/arm64 yangclivia/lobe-chat:latest
+--platform ghcr.io/bestruirui/subs-check
