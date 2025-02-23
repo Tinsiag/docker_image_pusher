@@ -1,1 +1,1 @@
---platform=linux/arm64 ghcr.io/bestruirui/subs-check:v0.1.5
+--platform=linux/arm64 lobehub/lobe-chat:1.62.11
