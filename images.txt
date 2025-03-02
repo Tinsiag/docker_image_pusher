@@ -1,2 +1,2 @@
 --platform=linux/arm64 lobehub/lobe-chat:1.62.11
-tinsiag/api:latest
+--platform=linux/arm64 tinsiag/api:latest
